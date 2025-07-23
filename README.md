@@ -14,6 +14,10 @@ The level has a left and a right end, with various skill passages to be mastered
 As in a dream, the skyscrapers protrude into the scene from the underside and the top.
 If the pigeon hits the wall of a building, it falls unconscious into the abyss and the player has to start again.
 
+<p>
+  <a href="https://georg-juranek.itch.io/my-pigeon" target="_blank" rel="noopener noreferrer">Play Game</a>
+</p>
+
 <div style="clear: both;"></div>
 
 <div style="width: 80%; margin-bottom: 2em;">
