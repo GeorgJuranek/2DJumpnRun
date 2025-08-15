@@ -1,4 +1,9 @@
 # 2D Jump'n'Run Steuerung
+
+| 💡 **Conception** | 🧨 **Timeframe**                   | ⚙️ **Technical Stack** |
+|----------------|---------------------------------|---------------------|
+| Georg Juranek  | 1 Month<br>(SAE Sem1)     | `Unity Animator`<br>`Character Controller`<br>`Parallax Effect`<br>`Level Design` |
+
 ## My Pigeon
 
 
@@ -14,6 +19,9 @@ The level has a left and a right end, with various skill passages to be mastered
 As in a dream, the skyscrapers protrude into the scene from the underside and the top.
 If the pigeon hits the wall of a building, it falls unconscious into the abyss and the player has to start again.
 
+<p>
+  <a href="https://youtu.be/5UpgdJO3dxs" target="_blank" rel="noopener noreferrer">Watch Video</a>
+</p>
 <p>
   <a href="https://georg-juranek.itch.io/my-pigeon" target="_blank" rel="noopener noreferrer">Play Game</a>
 </p>
